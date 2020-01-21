@@ -1,7 +1,7 @@
 
 Assignment_1:
 
-1. What are Channels and Kernels (according to EVA)?
+1.What are Channels and Kernels (according to EVA)?
 
 Ans:Channels are the carrier of a particular feature of an image where as Kernel is the matrix which convolves on an image to extract features.
 
