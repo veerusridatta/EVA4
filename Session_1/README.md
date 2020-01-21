@@ -15,8 +15,8 @@ Ans: 99 Layers (i.e. 199x199 > 197x197 > 195x195 > 193x193 > 191x191 > 189x189 >
 
 4.How are kernels initialized? 
 
-Ans:Each kernels are randomly initialized and are futher learned and adjusted during back-propagation. 
+Ans:Each kernels are randomly initialized and are further learned and adjusted during back-propagation. 
 
 5.What happens during the training of a DNN?
 
-Ans:During training of DNN, the kernels extract feature like patterns, texture of an image from receptive fields. Then, the neural network is trained to learn data through forward and backward propagations for n number of epochs to achieve desired results.
+Ans:During training of DNN, the kernels extract feature like patterns, texture of an image from receptive fields. Then, the neural network is trained to learn data through forward and backward propagation for n number of epochs to achieve desired results.
