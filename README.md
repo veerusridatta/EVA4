@@ -1,2 +1,3 @@
 # EVA4
-Deep Learning 
+
+Deep Neural Network program 
