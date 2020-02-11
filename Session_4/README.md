@@ -1,4 +1,6 @@
-Log:
+Epoch 18 has test accuracy - 99.46
+
+Log: 
 
 Epoch: 1
 /usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:28: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
