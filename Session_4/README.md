@@ -1,30 +1,5 @@
-Model:
-----------------------------------------------------------------
-        Layer (type)               Output Shape         Param #
-================================================================
-            Conv2d-1            [-1, 8, 28, 28]              80
-       BatchNorm2d-2            [-1, 8, 28, 28]              16
-            Conv2d-3           [-1, 16, 28, 28]           1,168
-       BatchNorm2d-4           [-1, 16, 28, 28]              32
-         MaxPool2d-5           [-1, 16, 14, 14]               0
-           Dropout-6           [-1, 16, 14, 14]               0
-            Conv2d-7           [-1, 32, 14, 14]           4,640
-       BatchNorm2d-8           [-1, 32, 14, 14]              64
-            Conv2d-9            [-1, 8, 14, 14]           2,312
-      BatchNorm2d-10            [-1, 8, 14, 14]              16
-        MaxPool2d-11              [-1, 8, 7, 7]               0
-          Dropout-12              [-1, 8, 7, 7]               0
-           Conv2d-13             [-1, 16, 5, 5]           1,168
-      BatchNorm2d-14             [-1, 16, 5, 5]              32
-           Conv2d-15             [-1, 32, 3, 3]           4,640
-      BatchNorm2d-16             [-1, 32, 3, 3]              64
-           Conv2d-17             [-1, 10, 1, 1]           2,890
-================================================================
-Total params: 17,122
-Trainable params: 17,122
-Non-trainable params: 0
-
 Log:
+
 Epoch: 1
 /usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:28: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
 loss=0.03138097748160362 batch_id=468: 100%|██████████| 469/469 [00:16<00:00, 28.28it/s]
