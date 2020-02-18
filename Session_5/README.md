@@ -41,7 +41,7 @@ Best Test Accuracy = 99.43
 
 Analysis:
 Train accuracy is reduced.
-Model is overfitting/good
+Model is good
 
 File Link:
 https://github.com/veerusridatta/EVA4/blob/master/Session_5/Assignment_5_3.ipynb
