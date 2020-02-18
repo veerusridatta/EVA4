@@ -59,7 +59,8 @@ Train accuracy is less compared to test accuracy due to transformation images in
 Benchmark appered for mutliple epochs 
 
 File Link:
-https://github.com/veerusridatta/EVA4/blob/master/Session_5/Assignment_5_3.ipynb
+https://github.com/veerusridatta/EVA4/blob/master/Session_5/Assignment_5_4.ipynb
+
 
 Model -5:
 Targets: Image aumentation with Dropout and ADAM optimizer 
